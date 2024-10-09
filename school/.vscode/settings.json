@@ -1,0 +1,6 @@
+{
+    "editor.renderWhitespace": "selection",
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
